@@ -1,6 +1,6 @@
 # Blu Kolla Dreams
 
-https://blukolladreams.com
+http://blukolladreams.com
 
 ## Description
 R&B music artist Bobby V record label.
